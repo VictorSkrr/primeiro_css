@@ -1,0 +1,23 @@
+html{
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+    text-align: center;
+    color: red;
+}
+
+.btn-yellow {
+    background-color: yellow;
+
+}
+
+.btn-green{
+    background-color: green;
+    color:white
+}
+
+.btn-red{
+    background-color: red;
+    color: white;
+}
